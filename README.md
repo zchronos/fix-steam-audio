@@ -1,4 +1,16 @@
-fix-steam-audio
+Fix Steam Audio
 ===============
 
-This script is only a temporal solution for the bug about Pulseaudio in steam with OpenSUSE
+Version: 0.1
+
+This script is only a temporal solution for the bug about Pulseaudio in steam with OpenSUSE.
+
+(Author): Segundo Luis Martín Díaz Sotomayor
+(Nick): zchronos
+(Website): http://gioscix.com/bishoujolinux/
+(Email): smartinds@gmail.com
+
+IMPORTANT: You need to run this script every time you update Steam
+
+
+Date: Sep. 13, 2013
